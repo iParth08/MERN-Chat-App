@@ -12,7 +12,7 @@ This is a chat application.
 - Packages :
   - react-router-dom    : 
   - axios   : 
-  - 6pp-react-hooks : 
+  - 6pp : for input state, change and validation 
   - moment  : 
   - chartjs, react-chartjs-2 : 
   - react-hot-toast : 
@@ -26,7 +26,7 @@ This is a chat application.
 
 ### Client Side: 01% Complete
 
-> Dated: 03/06/2022
+> Dated: 24-02-2024
 > Progress: 01% Complete
 
 **Tasks:**
@@ -35,4 +35,18 @@ This is a chat application.
 - Downloading Base packages
 - Setting Up base packages - [material ui, router, react-helmet-async]
 - Creating folder structure - [components, pages, utils, hooks, assets, lib]
--
+
+> Dated: 25-02-2024
+> Progress: 01% Complete
+
+**Tasks:**
+
+- Dynamic Importing with {lazy} from react
+- Pages - [Home, Login, Chat, Groups]
+- Component : Style - [StyledComponent]
+- Designing Login/Signup Page
+- Created a "VisuallyHiddenInput" component and attached input:file
+- Using 6pp for input state, change and validation :: custom package
+- Validator utils, setting up validation
+- Avatar src and preview set ::  //todo:file upload pending
+- //todo :: handleLogin && handleSignup
